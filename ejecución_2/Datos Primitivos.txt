@@ -1,0 +1,7 @@
+
+byte = velocity en midi  -128/127
+short = direcciones de casas
+int = cuerpo del rut/ numero de telefono
+float = operaciones division/ sacar el area de un circulo
+double = distancia a la luna/ entre planetas, distancias microscopicas
+String = Nombre, apellidos, buscador web

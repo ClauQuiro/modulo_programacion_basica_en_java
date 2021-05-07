@@ -1,0 +1,34 @@
+ENTRADAS:
+
+rueda nueva
+rueda averiada
+auto
+gata
+persona
+llave de cruz
+chaleco de seguridad
+triangulo
+
+procesos:
+poner implementos de seguridad
+Recolectar herramientas
+Poner llave de cruz en tuerca1,tuerca2,tuerca3,tuerca4.
+girar llave de cruz para soltar rueda
+accionar  gata para levantar auto, 
+sacar rueda averiada
+poner rueda averiada debajo del auto.
+poner rueda de repuesto.
+bajar gata.
+apretar tuercas.
+guardas herrramientas
+
+
+salida.
+
+Rueda cambiada y auto funcionando
+
+
+
+
+
+Entradas

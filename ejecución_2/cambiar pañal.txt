@@ -1,0 +1,29 @@
+cambiar pañales
+
+Entrada:
+juntar implementos
+mudador
+guagua
+pañal limpio
+algodon o toallitas humedas
+talco
+pilucho de repuesto
+
+
+proceso
+
+inspeccionar al bebe si requiere cambio
+juntar materiales.
+retirar pañal
+Limpriar con toallita el popin hasta sacar todo
+secar, poner talco
+poner pañal nuevo
+botar pañal a la basura
+guardar implementos
+
+
+
+salida.
+
+bebe feliz y cambiado de pañeles
+

@@ -1,0 +1,22 @@
+
+entrada
+
+dispositivo electronico, navegador,usuario
+
+
+proceso:
+buscar producto deseado
+ingresar a tienda virtual
+seleccionar producto
+agregar a carrito
+ir a opcion de pagar
+ingresar cuenta de pago
+cerrar compra
+
+
+salida
+
+producto pagado y a la espera de su llegada.
+
+
+
